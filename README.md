@@ -3,4 +3,4 @@ Group memebers:
   1. Artem Kolmogorov
   2. Seungah Choi
   3. Hemanvitha Mylapalli
-  4. Indeevara
+  4. Indeevara Tadikonda
